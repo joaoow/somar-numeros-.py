@@ -1,2 +1,2 @@
-# soma-de-numeros-inteiros.py
+# somar numeros.py
 Esse código faz uma soma de numeros inteiros
